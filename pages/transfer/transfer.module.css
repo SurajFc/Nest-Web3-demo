@@ -1,0 +1,7 @@
+.eth_form {
+  box-shadow: 0 4px 8px 0 rgb(103, 58, 183, 0.2),
+    0 6px 20px 0 rgb(103, 58, 183, 0.19);
+  text-align: center;
+  padding: 5%;
+  border: 1px solid #673ab7;
+}
